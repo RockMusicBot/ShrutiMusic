@@ -1,12 +1,1 @@
-# Netscape HTTP Cookie File
-# https://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file! Do not edit.
 
-.youtube.com	TRUE	/	TRUE	1749819379	GPS	1
-.youtube.com	TRUE	/	TRUE	0	YSC	rdUgRgCtD1o
-.youtube.com	TRUE	/	TRUE	1765369661	VISITOR_INFO1_LIVE	OpWP2XNr_J4
-.youtube.com	TRUE	/	TRUE	1765369661	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgXg%3D%3D
-.youtube.com	TRUE	/	TRUE	1765369661	__Secure-ROLLOUT_TOKEN	CP396fHInMCO9AEQzZTyurLujQMY_cTR4bLujQM%3D
-.youtube.com	TRUE	/	TRUE	1784377676	PREF	f6=40000000&tz=Asia.Kolkata&f7=100
-.youtube.com	TRUE	/	TRUE	1749817781	YTSESSION-rvkia	ANPz9Kjcqxx2MpwLMrJvLowUga97G8hEcFNaCARrBGSMkAhi2EaIVh/+eDNjbn9gsfosJHdSCO6opw9tenynngafpV17e2hypJ8wi1m+nyzuNaiAGZUwC30jZSITHN96FcqLG2Qj+Wk1aHBgQab0CdBrMZ2DdC4cXl5dBNERPkFQiqjDcYXW/zgUvpFKPRzcU1ZEeqvHMWO6f33+ZL+0Rxb8967jPaPnJ4USnUK7DCJx/U2FLRtCjqiWKhIcUY5G3qiQOAb1FZ2A+PBWiVMnLw12uSc97ZgcFNXvpFQElcLxsgDaWfz4bVLQnJ8/zij5lTFsUZBRjPEce6tlD8purYceAi6uZeOxpWBe5RXnpgs=
-.youtube.com	TRUE	/	FALSE	1749817682	ST-1qsxgst	csn=s5dLmmsw4wsWPf-o&itct=CJoBEPxaGAEiEwi7uI7nsu6NAxWRV50JHQoSEdwyBnNlYXJjaFIFc29uZyCaAQMQ9CQ%3D
